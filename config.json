@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "clientId": "YOUR_DISCORD_TOKEN_HERE",
+    "guildId": "YOUR_DISCORD_TOKEN_HERE",
+    "port": "3000"
+  }
